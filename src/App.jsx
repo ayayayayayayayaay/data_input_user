@@ -1,11 +1,3 @@
-// import './App.css'
-
-
-// function App() {
-//   return <> hello world</>
-// }
-
-// export default App
 
 import { useState } from 'react'
 
